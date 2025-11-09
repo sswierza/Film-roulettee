@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Film Roulette",
+    "slug": "film-roulette",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "android": {
+      "package": "com.sswierza.filmroulette",
+      "versionCode": 1
+    },
+    "extra": {
+      "tmdbApiKey": "REPLACE_WITH_YOUR_TMDB_API_KEY"
+    }
+  }
+}
