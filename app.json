@@ -15,6 +15,9 @@
       "package": "com.sswierza.filmroulette",
       "versionCode": 1
     },
+    "ios": {
+      "bundleIdentifier": "com.sswierza.filmroulette"
+    },
     "extra": {
       "tmdbApiKey": "REPLACE_WITH_YOUR_TMDB_API_KEY",
       "eas": {
