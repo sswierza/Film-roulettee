@@ -16,7 +16,10 @@
       "versionCode": 1
     },
     "extra": {
-      "tmdbApiKey": "REPLACE_WITH_YOUR_TMDB_API_KEY"
+      "tmdbApiKey": "REPLACE_WITH_YOUR_TMDB_API_KEY",
+      "eas": {
+        "projectId": "793f6760-99d7-43e3-9fad-18c6b57e7423"
+      }
     }
   }
 }
